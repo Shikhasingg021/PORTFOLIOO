@@ -30,7 +30,8 @@ const ProjectShowcase = () => {
         "HackForge is an online coding platform where users can solve, test, and evaluate coding problems. It features an AI-powered chatbot acting as a personalized coding mentor, secure authentication with JWT and bcrypt, and role-based access control. The platform combines real-time coding evaluation with modern AI integration for an enhanced developer experience.",
       tags: ["HTML", "Tailwind CSS", "React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Daisy UI", "Judge0", "OpenAI"],
       links: {
-        github: "https://github.com/raj2201641540078/HackForge-Coding-Platform",
+        //github: "https://github.com/raj2201641540078/HackForge-Coding-Platform",
+        github:"https://github.com/Shikhasingg021/HackForge-Coding-Platform",
         demo: "https://hackforge.dev/",
       },
       image: Decen,
@@ -42,7 +43,8 @@ const ProjectShowcase = () => {
         "FinAura is a finance management system featuring a dashboard for tracking and analyzing financial data. It integrates Inngest to automatically notify users via email when expenditure limits are exceeded, and implements JWT-based authentication with bcrypt for secure user logins.",
       tags: ["HTML", "Tailwind CSS", "React.js", "Node.js", "Express.js", "SupaBase", "JWT", "Daisy UI", "Inngest", "OpenAI"],
       links: {
-        github: "https://github.com/raj2201641540078/FinAura-Finance-Management-System",
+        //github: "https://github.com/raj2201641540078/FinAura-Finance-Management-System",
+        github:"https://github.com/Shikhasingg021/FinAura-Finance-Management-System",
         demo: "https://fin-aura-finance-management-system.vercel.app/",
       },
       image: Ser,
@@ -54,8 +56,9 @@ const ProjectShowcase = () => {
         "Bibliophile is a book enthusiasts' platform where users can connect and explore content. It allows users to create and manage interactive reading lists, while offering secure authentication and personalized book collections powered by MongoDB.",
       tags: ["Web Development", "JavaScript", "UI/UX"],
       links: {
-        github: "https://github.com/raj2201641540078/Bibliophile-A-Literacy-Haven",
-        demo: "https://github.com/raj2201641540078/Bibliophile-A-Literacy-Haven",
+        // github: "https://github.com/raj2201641540078/Bibliophile-A-Literacy-Haven",
+        // demo: "https://github.com/raj2201641540078/Bibliophile-A-Literacy-Haven",
+        github:"/FinAura-Finance-Management-System/Bibliophile-A-Literacy-Haven"
       },
       image: DI,
       featured: true,

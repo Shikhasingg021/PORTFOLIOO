@@ -13,7 +13,7 @@ const AboutMe = () => {
       Who am I? Just a tech nerd fueled by Java, caffeine, and an endless curiosity for how systems really work ☕💻 I build full-stack apps with Spring & Spring Boot, wire them up with React, REST APIs, and databases, and break things (intentionally!) only to fix them better. I geek out over Generative AI, clean code, and making software that actually scales without crashing (too often 😄). When I’m not debugging at weird hours, I’m probably playing cricket, watching crime thrillers, or trying to squeeze in one more feature before calling it a day.
       Let’s build the future—one line of code (and one bug fix) at a time! 🚀
 Open-source keeps me sane—nothing like fixing bugs (mine and others’) in the wild! 😆
-         <a className="text-[#4ECCA3] px-2" href="https://codolio.com/profile/Rajsingh">
+         <a className="text-[#4ECCA3] px-2" href="https://github.com/Shikhasingg021">
               The OG Coder
             </a>{" "}
           </p>

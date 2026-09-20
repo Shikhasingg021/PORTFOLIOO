@@ -4,7 +4,6 @@ import { BadgeCheckIcon } from "lucide-react";
 import {
   FaHome,
   FaLaptopCode,
-  FaBriefcase,
   FaGraduationCap,
   FaCode,
   FaEnvelope,
@@ -12,7 +11,6 @@ import {
   FaTrophy,
   FaMedal,
   FaFileAlt,
-  FaProjectDiagram,
 } from "react-icons/fa";
 
 export default function Header() {
@@ -33,12 +31,6 @@ export default function Header() {
   const navLinks = [
     { id: "home", icon: FaHome, text: "Home", path: "/" },
     { id: "skills", icon: FaCode, text: "Skills", path: "/skills" },
-    {
-      id: "experience",
-      icon: FaBriefcase,
-      text: "Experience",
-      path: "/experience",
-    },
     {
       id: "education",
       icon: FaGraduationCap,
@@ -63,12 +55,6 @@ export default function Header() {
       icon: FaLaptopCode,
       text: "Projects",
       path: "/projects",
-    },
-    {
-      id: "architecture",
-      icon: FaProjectDiagram,
-      text: "Tech Progress",
-      path: "/architecture",
     },
     { id: "contact", icon: FaEnvelope, text: "Contact", path: "/contact" },
   ];

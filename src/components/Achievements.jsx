@@ -99,19 +99,19 @@ const SkillsSection = () => {
   
 
   const achievements = [
-    {
-      icon: Award,
-      title: "Technical Co-Head",
-      color: "text-blue-400",
-      skills: [
-        {
-          name: "Led CS Department In Ignitia'24 [Techno-Cultural Fest]",
-          icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "https://drive.google.com/file/d/1Uuw8N0SuntSNx8blpuT3jX2qnJKOJh5h/view?usp=sharing",
-        },
+    // {
+    //   icon: Award,
+    //   title: "Technical Co-Head",
+    //   color: "text-blue-400",
+    //   skills: [
+    //     {
+    //       name: "Led CS Department In Ignitia'24 [Techno-Cultural Fest]",
+    //       icon: <Award className="w-4 h-4 text-orange-400" />,
+    //       link: "https://drive.google.com/file/d/1Uuw8N0SuntSNx8blpuT3jX2qnJKOJh5h/view?usp=sharing",
+    //     },
         
-      ],
-    },
+    //   ],
+    // },
     {
       icon: Award,
       title: "Institute Rank 139",
@@ -120,22 +120,23 @@ const SkillsSection = () => {
         {
           name: "GeeksforGeeks Rating 1200+ & 500+ Problems Solved",
           icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "https://www.geeksforgeeks.org/profile/2k22psitc7ofz?tab=activity",
+          // link: "https://www.geeksforgeeks.org/profile/2k22psitc7ofz?tab=activity",
+          link:"https://www.geeksforgeeks.org/profile/ssumitthi04d?tab=activity"
         },
       ],
     },
-    {
-      icon: SiGithub,
-      title: "Open Source Contributer",
-      color: "text-blue-400",
-      skills: [
-        {
-          name: "@Hacktoberfest 2025 by Digital Ocean",
-          icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "https://www.holopin.io/@raj2201641540078#badges",
-        },
-      ],
-    },
+    // {
+    //   icon: SiGithub,
+    //   title: "Open Source Contributer",
+    //   color: "text-blue-400",
+    //   skills: [
+    //     {
+    //       name: "@Hacktoberfest 2025 by Digital Ocean",
+    //       icon: <Award className="w-4 h-4 text-orange-400" />,
+    //       link: "https://www.holopin.io/@raj2201641540078#badges",
+    //     },
+    //   ],
+    // },
     {
       icon: Award,
       title: "Team Lead - MERN Project",
@@ -144,7 +145,7 @@ const SkillsSection = () => {
         {
           name: "Successfully led a 5-member team",
           icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "https://github.com/raj2201641540078/FinAura-Finance-Management-System",
+          //link: "https://github.com/raj2201641540078/FinAura-Finance-Management-System",
         },
       ],
     },
@@ -156,7 +157,8 @@ const SkillsSection = () => {
         {
           name: "LeetCode Weekly Contest 1,415 & Max Rating Of 1607",
           icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "https://leetcode.com/u/DS1B_2201641540078/",
+          //link: "https://leetcode.com/u/DS1B_2201641540078/",
+          link:"https://leetcode.com/u/shikha0912345s/"
         },
       ],
     },
@@ -168,22 +170,22 @@ const SkillsSection = () => {
         {
           name: "Hackerrank",
           icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "https://www.hackerrank.com/profile/2k22_psit_csds_1",
+          //link: "https://www.hackerrank.com/profile/2k22_psit_csds_1",
         },
       ],
     },
-    {
-      icon: Award,
-      title: "Google Gen AI Study Sept 2025",
-      color: "text-blue-400",
-      skills: [
-        {
-          name: "Certified by Oracle University for excellence in Generative AI fundamentals and applied practices.",
-          icon: <Award className="w-4 h-4 text-orange-400" />,
-          link: "",
-        },
-      ],
-    },
+    // {
+    //   icon: Award,
+    //   title: "Google Gen AI Study Sept 2025",
+    //   color: "text-blue-400",
+    //   skills: [
+    //     {
+    //       name: "Certified by Oracle University for excellence in Generative AI fundamentals and applied practices.",
+    //       icon: <Award className="w-4 h-4 text-orange-400" />,
+    //       link: "",
+    //     },
+    //   ],
+    // },
     // {
     //   icon: Award,
     //   title: "Google Gen AI Study Jam 2024",

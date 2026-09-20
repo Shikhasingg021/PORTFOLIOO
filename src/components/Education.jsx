@@ -16,20 +16,20 @@ const EducationSection = () => {
   const educationData = [
     {
       degree: "Bachelor Of Technology",
-      school: "Pranveer Singh Institute Of Technology",
+      school: "Babu Banarasi Das Northern Indian Institute Of Technology",
       mascot: "📘",
-      year: "2022-2026",
-      achievements: ["CGPA: 8.5", "Subject: Computer Science"],
+      year: "2024-2028",
+      achievements: ["CGPA: 7.6", "Subject: Computer Science"],
       skills: ["C++", "Java", "Javascript", "Data Structures", "Algorithms", "DBMS", "Web Development", "OS", "CN", "OOPS", "System Design"],
       description:
         "Pursuing a B.Tech in Computer Science, focusing on software development. Developed strong programming skills and a solid understanding of computer systems.",
     },
     {
       degree: "Senior Secondary Certificate (SSC)",
-      school: "R.P.M Academy, Gorakhpur",
+      school: "Radhika Senior Secondary School, Gorakhpur",
       mascot: "📗",
-      year: "2021-2022",
-      achievements: ["Percentage: 80.25%", "Subject: Science & CS"],
+      year: "2022-2023",
+      achievements: ["Percentage: 81.4%", "Subject: Science & CS"],
       skills: ["Maths", "Physics", "Chemistry", "Computer Science", "English"],
       description:
         "Completed my SSC with a focus on Science and Computer Science. Achieved a high percentage and developed a strong foundation in mathematics and science.",
@@ -38,8 +38,8 @@ const EducationSection = () => {
       degree: "High School Certificate (HSC)",
       school: "Oxford Public School, Gorakhpur",
       mascot: "📗",
-      year: "2020-2021",
-      achievements: ["Percentage: 83.12%", "Subject: Mathematics & English"],
+      year: "2021-2022",
+      achievements: ["Subject: Mathematics & English"],
       skills: ["Mathematics", "English", "Computer Science", "Academic Excellence"],
       description:
         "Completed High School with strong academic performance, building a foundation in core subjects such as Mathematics, English, and Computer Science.",

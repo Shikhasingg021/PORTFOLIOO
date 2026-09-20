@@ -130,7 +130,8 @@ export default function Contact() {
               <div className="flex justify-start items-center gap-3 sm:gap-4 md:gap-6 flex-wrap">
                 {/* GitHub */}
                 <a
-                  href="https://github.com/raj2201641540078"
+                  href="https://github.com/Shikhasingg021"
+
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 lg:w-18 lg:h-18 flex items-center justify-center transition-transform duration-300 hover:scale-110"
@@ -143,7 +144,7 @@ export default function Contact() {
 
                 {/* LinkedIn */}
                 <a
-                  href="https://www.linkedin.com/in/raj-singh-201514292/"
+                  href="https://www.linkedin.com/in/shikha-singh-697502391/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 lg:w-18 lg:h-18 flex items-center justify-center transition-transform duration-300 hover:scale-110"

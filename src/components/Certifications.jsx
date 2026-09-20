@@ -74,7 +74,7 @@ import {
   SiMagic,
   
 } from "react-icons/si";
-import { TbBrandVscode } from "react-icons/tb";
+import { TbBrandVscode } from "react-icons/tb"; 
 import { BsDatabase, BsFileEarmarkCode, BsGithub, BsGrid1X2 } from "react-icons/bs";
 import { MdAnimation, MdClass, MdNumbers, MdSmartToy } from "react-icons/md";
 import { FcWorkflow } from "react-icons/fc";
@@ -144,8 +144,8 @@ const SkillsSection = () => {
     {
       icon: FileText,
       title: "Introduction To Programming In C",
-      link: "https://drive.google.com/file/d/1D_ZJIoGusawt_B4oD-RUFlztRpYUYQ9y/view?usp=sharing",
-      provider: "Great Learning",
+      //link: "https://drive.google.com/file/d/1D_ZJIoGusawt_B4oD-RUFlztRpYUYQ9y/view?usp=sharing",
+      //provider: "Great Learning",
       color: "text-green-400",
       skills: [
         {
@@ -161,8 +161,8 @@ const SkillsSection = () => {
     {
         icon: FileText,
         title: "Responsive Web Design",
-        link: "https://drive.google.com/file/d/1laC-j5aQdZTQQIyra3TdxEBWgNJel-_e/view?usp=sharing",
-        provider: "CoderArmy",
+        //link: "https://drive.google.com/file/d/1laC-j5aQdZTQQIyra3TdxEBWgNJel-_e/view?usp=sharing",
+        //provider: "CoderArmy",
         color: "text-green-400",
         skills: [
           {
@@ -177,10 +177,10 @@ const SkillsSection = () => {
             name: "JavaScript",
             icon: <SiJavascript className="w-4 h-4 text-green-400" />,
           },
-          {
-            name: "Typescript",
-            icon: <SiTypescript className="w-4 h-4 text-green-400" />,
-          },
+          // {
+          //   name: "Typescript",
+          //   icon: <SiTypescript className="w-4 h-4 text-green-400" />,
+          // },
           {
             name: "ReactJS",
             icon: <SiReact className="w-4 h-4 text-green-400" />,
@@ -194,8 +194,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "SQL (Basic)",
-        link: "https://drive.google.com/file/d/1OHOYKPn7BCW72KNtBoiDSGo2gYUxboVU/view?usp=sharing",
-        provider: "Hackerrank",
+        //link: "https://drive.google.com/file/d/1OHOYKPn7BCW72KNtBoiDSGo2gYUxboVU/view?usp=sharing",
+        //provider: "Hackerrank",
         color: "text-green-400",
         skills: [
           {
@@ -211,8 +211,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "C++ & DSA",
-        link: "https://drive.google.com/file/d/1oDXm7peu0JcBF0Bu6JXGtFEZT7y5XHCl/view?usp=sharing",
-        provider: "CodeHelp",
+        //link: "https://drive.google.com/file/d/1oDXm7peu0JcBF0Bu6JXGtFEZT7y5XHCl/view?usp=sharing",
+        //provider: "CodeHelp",
         color: "text-green-400",
         skills: [
           {
@@ -228,8 +228,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "Python",
-        link: "https://drive.google.com/file/d/118eprIcQ8GslPFdT7kW7AVgKNZYv70Dh/view?usp=sharing",
-        provider: "OneStop",
+        //link: "https://drive.google.com/file/d/118eprIcQ8GslPFdT7kW7AVgKNZYv70Dh/view?usp=sharing",
+        //provider: "OneStop",
         color: "text-green-400",
         skills: [
           {
@@ -245,8 +245,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "Full Stack Using Java",
-        link: "https://drive.google.com/drive/folders/1oUvwpad0UJc-u6ZWAkP4EB_TJHeAweGY?usp=sharing",
-        provider: "Udemy",
+        //link: "https://drive.google.com/drive/folders/1oUvwpad0UJc-u6ZWAkP4EB_TJHeAweGY?usp=sharing",
+        //provider: "Udemy",
         color: "text-green-400",
         skills: [
          {
@@ -271,8 +271,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "AWS Cloud practitioner Essentials",
-        link: "https://drive.google.com/file/d/1BDfi8V7HIO-3jFg3CjHvUV--SL9-XlhW/view?usp=sharing",
-        provider: "AWS",
+        //link: "https://drive.google.com/file/d/1BDfi8V7HIO-3jFg3CjHvUV--SL9-XlhW/view?usp=sharing",
+        //provider: "AWS",
         color: "text-green-400",
         skills: [
           {
@@ -304,8 +304,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "JavaScript",
-        link: "https://drive.google.com/file/d/1aKcqVk8M1w06_L2K5JR-_ogPXSrVMLvL/view?usp=sharing",
-        provider: "Infosys Springboard",
+        //link: "https://drive.google.com/file/d/1aKcqVk8M1w06_L2K5JR-_ogPXSrVMLvL/view?usp=sharing",
+        //provider: "Infosys Springboard",
         color: "text-green-400",
         skills: [
           {
@@ -329,8 +329,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "Agentblazer Champion 2025",
-        link: "https://drive.google.com/file/d/1S6gbReEYzf7Jv4w8tMuhOip_-lTKOj0Q/view?usp=sharing",
-        provider: "Salesforce Trailhead",
+        //link: "https://drive.google.com/file/d/1S6gbReEYzf7Jv4w8tMuhOip_-lTKOj0Q/view?usp=sharing",
+        //provider: "Salesforce Trailhead",
         color: "text-green-400",
         skills: [
           {
@@ -350,8 +350,8 @@ const SkillsSection = () => {
       {
         icon: FileText,
         title: "Introduction To Generative AI",
-        link: "https://drive.google.com/file/d/1rzFAvLzv2NAWiHJfqhW9MzgrtxSBdwgR/view?usp=sharing",
-        provider: "Udemy",
+        //link: "https://drive.google.com/file/d/1rzFAvLzv2NAWiHJfqhW9MzgrtxSBdwgR/view?usp=sharing",
+        //provider: "Udemy",
         color: "text-green-400",
         skills: [
           {
@@ -368,27 +368,27 @@ const SkillsSection = () => {
           },
         ],
       },
-      {
-        icon: FileText,
-        title: "Introduction To Large Language Models",
-        link: "",
-        provider: "FreeCodeCamp",
-        color: "text-green-400",
-        skills: [
-          {
-            name: "OpenAI",
-            icon: <SiOpenai className="w-4 h-4 text-green-400" />,
-          },
-          {
-            name: "LLMs",
-            icon: <SiLlvm className="w-4 h-4 text-green-400" />,
-          },
-          {
-            name: "Langchain",
-            icon: <SiLangchain className="w-4 h-4 text-green-400" />,
-          },
-        ],
-      },
+      // {
+      //   icon: FileText,
+      //   title: "Introduction To Large Language Models",
+      //   link: "",
+      //   provider: "FreeCodeCamp",
+      //   color: "text-green-400",
+      //   skills: [
+      //     {
+      //       name: "OpenAI",
+      //       icon: <SiOpenai className="w-4 h-4 text-green-400" />,
+      //     },
+      //     {
+      //       name: "LLMs",
+      //       icon: <SiLlvm className="w-4 h-4 text-green-400" />,
+      //     },
+      //     {
+      //       name: "Langchain",
+      //       icon: <SiLangchain className="w-4 h-4 text-green-400" />,
+      //     },
+      //   ],
+      // },
       
       // {
       //   icon: FileText,
